@@ -17,6 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi09k&show_icons=true&locale=en&layout=compact" alt="mahi09k" /></p>
 <p><img align="left" src="https://tryhackme-badges.s3.amazonaws.com/Mahi444.png" alt="TryHackMe" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi09k&show_icons=true&locale=en&layout=compact" alt="mahi09k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi09k&show_icons=true&locale=en" alt="mahi09k" /></p>
